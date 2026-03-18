@@ -54,6 +54,7 @@
     <Compile Include="Assets\Scripts\MainMenuHandler.cs" />
     <Compile Include="Assets\Scripts\ScrollsLogic.cs" />
     <Compile Include="Assets\SimpleDialogues\Examples\Scripts\DialogueInteraction.cs" />
+    <Compile Include="Assets\Scripts\DoorHandler.cs" />
     <Compile Include="Assets\Scripts\Billboard.cs" />
     <Compile Include="Assets\Scripts\PauseHandler.cs" />
     <Compile Include="Assets\Scripts\DoorInfoStorage.cs" />
