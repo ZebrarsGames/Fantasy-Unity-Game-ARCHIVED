@@ -56,6 +56,7 @@
     <Compile Include="Assets\SimpleDialogues\Examples\Scripts\DialogueInteraction.cs" />
     <Compile Include="Assets\Scripts\Billboard.cs" />
     <Compile Include="Assets\Scripts\PauseHandler.cs" />
+    <Compile Include="Assets\Scripts\DoorInfoStorage.cs" />
     <Compile Include="Assets\SimpleDialogues\Scripts\Dialogues.cs" />
     <Compile Include="Assets\Scripts\NPCControl.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
