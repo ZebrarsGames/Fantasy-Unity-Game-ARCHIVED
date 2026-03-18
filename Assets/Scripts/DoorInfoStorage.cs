@@ -9,12 +9,12 @@ public class DoorInfoStorage : MonoBehaviour
     public void Interact()
     {
         Debug.Log("Используем дверь, которая ведёт на сцену " + toSceneName);
-        if(SceneManager.GetSceneByName(toSceneName) == null)
-        {
-            Debug.LogWarning("Не найдена сцена с именем " + toSceneName);
-        } else
+        if(SceneManager.GetSceneByName(toSceneName).IsValid())
         {
             SceneManager.LoadScene(toSceneName);
+        } else
+        {
+            Debug.LogWarning("Не найдена сцена с именем " + toSceneName);
         }
         
     }
