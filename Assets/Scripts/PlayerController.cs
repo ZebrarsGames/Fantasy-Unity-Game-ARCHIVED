@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
             if (Physics.Raycast(ray, out RaycastHit hit, 2f))
             {
                 NPCControl npc = hit.collider.GetComponentInParent<NPCControl>();
-                DoorInfoStorage door = hit.collider.GetComponentInParent<DoorInfoStorage>();
+                DoorHandler door = hit.collider.GetComponentInParent<DoorHandler>();
 
                 if (npc != null)
                 {

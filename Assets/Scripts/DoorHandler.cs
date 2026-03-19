@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class DoorInfoStorage : MonoBehaviour
+public class DoorHandler : MonoBehaviour
 {
     
     public string toSceneName;
