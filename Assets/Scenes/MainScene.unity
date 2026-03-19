@@ -13630,7 +13630,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95c2bffeacf8cbb499dcf627727a44b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorInfoStorage
-  toSceneName: Test
+  toSceneName: TestScene
 --- !u!4 &1084980953 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5566614576695011573, guid: 3e833f3c41837e2499848cbd3a40b527, type: 3}
