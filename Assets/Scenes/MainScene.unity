@@ -13631,6 +13631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorInfoStorage
   toSceneName: TestScene
+  coords: {x: 32, y: 1, z: 20}
 --- !u!4 &1084980953 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5566614576695011573, guid: 3e833f3c41837e2499848cbd3a40b527, type: 3}
@@ -17256,7 +17257,7 @@ Transform:
   m_GameObject: {fileID: 1388990542}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.96, y: 0.993, z: 11.908}
+  m_LocalPosition: {x: 20, y: 1, z: 12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

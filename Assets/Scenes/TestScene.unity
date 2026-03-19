@@ -1271,6 +1271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorInfoStorage
   toSceneName: MainScene
+  coords: {x: 30, y: 1, z: 22}
 --- !u!65 &269461332
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5556,7 +5557,7 @@ Transform:
   m_GameObject: {fileID: 1454737321}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20, y: 1, z: 12}
+  m_LocalPosition: {x: 21.63, y: 1, z: 20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
